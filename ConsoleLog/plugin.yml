@@ -1,0 +1,6 @@
+name: Console
+version: 1.0
+api: 3.0.0
+author: "PlexPlugins Team"
+authors: SaveConnection, PluginSquad, V3rsucht, AleoTV
+main: Console\main
