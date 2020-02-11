@@ -1,4 +1,4 @@
-## Willkommen zm PHP-Repository!!!
+## Willkommen zum PHP-Repository!!!
 
 *Hier findest du* ***PHP/PMMP*** *Plugins :D*
 
